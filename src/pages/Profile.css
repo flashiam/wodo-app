@@ -1,0 +1,44 @@
+.measure
+{
+    width: 50%;
+    height: 50%;
+    align-items: center;
+}
+.cnt
+{
+    text-align:center;
+}
+.nav
+{
+    background-color: #1C3950;
+}
+.google
+{
+    justify-items: center;
+    color: #EA4335;
+}
+.facebook
+{
+    justify-items: center;
+    color:#1877F2
+}
+.instagram
+{
+    justify-items: center;
+    color: #E1306C;
+}
+.wapp
+{
+    justify-items: center;
+    color:#25D366;
+}
+.twitter
+{
+    justify-items: center;
+    color:#1DA1F2
+}
+
+.modalcard
+{
+    height: 70%;
+}
